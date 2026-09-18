@@ -1,0 +1,89 @@
+============================================================
+SENTINEL MOSAIC REPORT
+============================================================
+
+Created : 2026-07-06 13:03:49
+
+Input Tiles : 8
+
+------------------------------------------------------------
+INPUT FILES
+------------------------------------------------------------
+
+[1] sentinel_raw-0000000000-0000000000.tif
+Width      : 9472
+Height     : 9472
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[2] sentinel_raw-0000000000-0000009472.tif
+Width      : 7601
+Height     : 9472
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[3] sentinel_raw-0000009472-0000000000.tif
+Width      : 9472
+Height     : 9472
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[4] sentinel_raw-0000009472-0000009472.tif
+Width      : 7601
+Height     : 9472
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[5] sentinel_raw-0000018944-0000000000.tif
+Width      : 9472
+Height     : 9472
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[6] sentinel_raw-0000018944-0000009472.tif
+Width      : 7601
+Height     : 9472
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[7] sentinel_raw-0000028416-0000000000.tif
+Width      : 9472
+Height     : 2128
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+[8] sentinel_raw-0000028416-0000009472.tif
+Width      : 7601
+Height     : 2128
+Bands      : 6
+Datatype   : float64
+CRS        : EPSG:4326
+Resolution : (8.983152841195215e-05, 8.983152841195215e-05)
+
+============================================================
+OUTPUT MOSAIC
+============================================================
+Filename : sentinel_mosaic.tif
+Width    : 17073
+Height   : 30544
+Bands    : 6
+Compression : LZW
+BIGTIFF     : YES
+
+============================================================
+STATUS : SUCCESS
+============================================================

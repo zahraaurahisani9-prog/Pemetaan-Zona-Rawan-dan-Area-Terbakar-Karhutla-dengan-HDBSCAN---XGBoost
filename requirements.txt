@@ -1,0 +1,11 @@
+earthengine-api
+requests
+rasterio
+geopandas
+numpy
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gdown
+pandas
