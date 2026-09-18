@@ -1,2 +1,0 @@
-min_cluster_size,min_samples,n_clusters,n_noise,noise_ratio,dbcv,silhouette,total_observations
-25,25,334,3156,0.15665640821999405,0.2560846782088346,0.6950203988369009,20146
